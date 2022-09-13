@@ -15,6 +15,6 @@
   
 - 👋 Hi, my name is Aleksandar.
 - 🚀 I’m helping software development teams reach rapid delivery of high-quality software.
-- 🛠 My area of expertise is the development and implementation of reliable test automation solutions and tools.
+- 🛠 My area of expertise is the development, implementation, and integration of JavaScript-based tools and solutions.
 - 💻 Web developer.
 - 📝 Tech writer and conference speaker.
