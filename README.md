@@ -1,5 +1,5 @@
 <a href="https://www.zeljkovic.sh"><p align="center">
-<img width="20%" src="https://github.com/azeljkovic/azeljkovic/blob/main/icon-white3.png"/>
+<img width="20%" src="https://github.com/azeljkovic/azeljkovic/blob/main/zeljkovic.sh-1.png"/>
 </p></a>
 
 
