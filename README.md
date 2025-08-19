@@ -15,6 +15,6 @@
   
 👋 Hi, my name is Aleksandar.  
 🚀 I’m helping software development teams reach rapid delivery of high-quality software.  
-💻 My area of expertise is the development and integration of tools and backend services.  
+💻 My area of expertise is the development and integration of testing tools.  
 🛠 Node.js developer.  
 📝 Tech writer and conference speaker.  
