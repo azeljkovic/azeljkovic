@@ -13,8 +13,27 @@
 
 <br/><br/>
   
-👋 Hi, my name is Aleksandar.  
-🚀 I’m helping software development teams reach rapid delivery of high-quality software.  
-💻 My area of expertise is the development and integration of testing tools.  
-🛠 Node.js developer.  
-📝 Tech writer and conference speaker.  
+## Hi, I’m Aleksandar 👋
+
+I’m a Senior Software Engineer in Test focused on quality engineering, test automation, CI/CD, performance testing, and developer-facing tooling.
+
+I help engineering teams improve delivery confidence by building and integrating tools, frameworks, and practices that make testing more reliable, scalable, and useful.
+
+### Areas I work in
+- Quality Engineering
+- Test Automation
+- API / End-to-End Testing
+- CI/CD and developer workflows
+- Performance Testing
+- Node.js / Python tooling
+
+### Here you’ll find
+- code examples related to talks and blog posts
+- experiments with testing tools and frameworks
+- small utilities and developer workflow setup
+- sample projects in Node.js / Python
+
+### Find me elsewhere
+- Blog: [zeljkovic.sh](https://zeljkovic.sh)
+- LinkedIn: [linkedin.com/in/a-zeljkovic](https://linkedin.com/in/a-zeljkovic)
+- Email: aleksandar@zeljkovic.sh
