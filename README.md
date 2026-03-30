@@ -17,7 +17,7 @@
 
 I’m a Senior Software Engineer in Test focused on quality engineering, test automation, CI/CD, performance testing, and developer-facing tooling.
 
-I help engineering teams improve delivery confidence by building and integrating tools, frameworks, and practices that make testing more reliable, scalable, and useful.
+I help engineering teams improve delivery confidence by building tools, frameworks, and practices that make testing more reliable, scalable, and useful.
 
 ### Areas I work in
 - Quality Engineering
