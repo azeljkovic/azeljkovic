@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.zeljkovic.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-zeljkovic.com-222627?style=flat&logo=GNU-Bash&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/a-zeljkovic"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-a--zeljkovic-3466C2?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:aleksandar@zeljkovic.com"><img alt="Email" src="https://img.shields.io/badge/Email-aleksandar%40zeljkovic.com-D14836?style=flat"/></a>
+<a href="mailto:dev@zeljkovic.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev%40zeljkovic.com-D14836?style=flat"/></a>
 </p>
 
 <br/>
@@ -54,4 +54,4 @@ I help software teams build test automation they can trust: fast, stable suites 
 
 ### Work with me
 
-Have a test suite nobody trusts, or a pipeline that takes too long? Email [aleksandar@zeljkovic.com](mailto:aleksandar@zeljkovic.com) or message me on [LinkedIn](https://www.linkedin.com/in/a-zeljkovic).
+Have a test suite nobody trusts, or a pipeline that takes too long? Email [dev@zeljkovic.com](mailto:dev@zeljkovic.com) or message me on [LinkedIn](https://www.linkedin.com/in/a-zeljkovic).
