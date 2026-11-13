@@ -33,7 +33,6 @@ I help software teams build test automation they can trust: fast, stable suites 
 | [⚡ lighty](https://github.com/azeljkovic/lighty) | A typed HTTP testing library for Node.js, published on npm, with unit and integration tests, CI checks, automated publishing and a docs site |
 | [lighty-examples](https://github.com/azeljkovic/lighty-examples) | Practical API test examples using lighty against httpbin: requests, assertions, redirects, auth, error handling |
 | [cypress-vs-playwright](https://github.com/azeljkovic/cypress-vs-playwright) | The same test scenarios written in Cypress and Playwright, both running in GitHub Actions; companion code for my talk *Clash of the Titans: Cypress vs Playwright* |
-<!-- Add new showcase repos here, e.g. a Playwright CI blueprint or a k6 performance testing example -->
 
 ### Tools I work with
 
